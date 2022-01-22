@@ -1,0 +1,9 @@
+[submodule "libhwtests"]
+	path = libhwtests
+	url = https://github.com/4ms/libhwtests.git
+[submodule "stm_audio_bootloader"]
+	path = stm_audio_bootloader
+	url = https://github.com/mqtthiqs/stm-audio-bootloader.git
+[submodule "stmlib"]
+	path = stmlib
+	url = https://github.com/4ms/stmlib.git
